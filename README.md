@@ -6,5 +6,6 @@
 <h3 align="center">Stack</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-    <img src="https://img.shields.io/badge/c++-3670A0?style=for-the-badge&logo=python&logoColor=#00599C" />&nbsp
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
